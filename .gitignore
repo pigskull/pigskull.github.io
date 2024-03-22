@@ -1,0 +1,8 @@
+# macOS related files to ignore
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Trashes
+__MACOSX
